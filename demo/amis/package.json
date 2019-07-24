@@ -7,7 +7,8 @@
     "antd": "^3.0.0",
     "moment": "^2.19.3",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "amis": "^1.0.0-rc.3"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
@@ -17,6 +18,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-stage-0": "^7.0.0",
     "@babel/runtime": "^7.0.0",
+    
     "atool-build": "^1.0.7",
     "atool-test-mocha": "^0.2.1",
     "babel-loader": "^8.0.2",
